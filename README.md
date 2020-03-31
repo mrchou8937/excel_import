@@ -5,3 +5,6 @@ PHPExcel匯入excel到mysql
 
 ## sample.php
 [教學文章] phpExcel常用方法詳解
+
+## setFormula.php
+下拉選單
