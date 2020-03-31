@@ -18,7 +18,7 @@ $objValidation -> setType(PHPExcel_Cell_DataValidation::TYPE_LIST)
     -> setErrorTitle('輸入的值有誤')
     -> setError('您輸入的值不在下拉框列表內.')
     -> setPromptTitle('設備類型')
-    /方法一
+    //方法一
     //把sheet名为mySheet2的A1,A2,A3作为选项
 		// -> setFormula1('mySheet2!$A$1:$A$3');
 		
